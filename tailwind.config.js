@@ -3,7 +3,8 @@ export default {
     content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
     theme: {
         colors: {
-            badge: "#8af249",
+            badge: "#e39c58",
+            navbtn: "#354b46",
         },
         extend: {},
         screens: {
@@ -23,7 +24,7 @@ export default {
             {
                 dark: {
                     ...require("daisyui/src/theming/themes")["dark"],
-                    primary: "#45a5a6",
+                    primary: "#bffcfc",
                     secondary: "#ff6d4d",
                 },
             },
