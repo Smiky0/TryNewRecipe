@@ -4,11 +4,11 @@ It's a recipe search website, it allows users to search for recipes and even add
 
 ## Screenshots
 
-![App Screenshot](screenshots/Screen Shot 2024-06-11 at 13.44.39.png)
+![App Screenshot](screenshots/screenshot1.png?raw=true)
 
-![App Screenshot](screenshots/Screenshot 2024-06-11 133928.png?raw=true)
+![App Screenshot](screenshots/screenshot2.png?raw=true)
 
-![App Screenshot](screenshots/Screenshot 2024-06-11 134320.png?raw=true)
+![App Screenshot](screenshots/screenshot3.png?raw=true)
 
 ## Features
 
