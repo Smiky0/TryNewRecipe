@@ -58,5 +58,3 @@ Contributions are always welcome!
 ## Acknowledgements
 
 -   [Edamam API](https://www.edamam.com/)
--   [ViteJs](https://vitejs.dev/)
--   [DaisyUI](https://daisyui.com/)
