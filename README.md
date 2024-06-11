@@ -19,7 +19,7 @@ It's a recipe search website, it allows users to search for recipes and even add
 
 ## Live Website
 
-https://newcuisine.netlify.app/
+https://trynewrecipe.netlify.app/
 
 ## Setup to run it locally
 
