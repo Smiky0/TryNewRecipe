@@ -25,7 +25,7 @@ https://trynewrecipe.netlify.app/
 
 Run the project locally
 
-The website should be running on 'http://localhost:3000'
+The website should be running on 'http://localhost:5173/'
 
 ```bash
   git clone https://github.com/Smiky0/NewRecipe.git
