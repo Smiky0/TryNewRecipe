@@ -1,10 +1,10 @@
-# New Recipe
+# TryNewRecipe
 
 It's a recipe search website, it allows users to search for recipes and even add them as favourites. You can directly go to youtube on click of a button or even check the recipe by clicking on the image.
 
 ## Screenshots
 
-![App Screenshot](screenshots/screenshot1.png?raw=true)
+![App Screenshot](screenshots/screenshot1.png?raw=trueb)
 
 ![App Screenshot](screenshots/screenshot2.png?raw=true)
 

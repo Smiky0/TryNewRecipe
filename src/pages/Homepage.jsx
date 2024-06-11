@@ -57,7 +57,7 @@ export default function Homepage() {
                         to="/"
                         className="btn btn-ghost text-xl hidden sm:block"
                     >
-                        NewRecipe
+                        TryNewRecipe
                     </Link>
                 </div>
                 {/* search field.. */}

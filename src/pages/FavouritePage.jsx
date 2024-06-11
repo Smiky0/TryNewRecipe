@@ -21,7 +21,7 @@ export default function FavouritePage() {
                         to="/"
                         className="btn btn-ghost text-xl hidden sm:block"
                     >
-                        NewRecipe
+                        TryNewRecipe
                     </Link>
                 </div>
                 <div className="text-2xl flex-1 justify-center items-center gap-4 m-2">
