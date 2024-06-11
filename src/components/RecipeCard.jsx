@@ -23,7 +23,7 @@ export default function RecipeCard({ recipe }) {
     };
     return (
         <div>
-            <div className="card card-compact w-96 bg-base-200 shadow-xl m-2 p-1">
+            <div className="card card-compact max-w-sm bg-base-200 shadow-xl m-2 p-1 ">
                 <figure>
                     <img
                         src={recipe.image}

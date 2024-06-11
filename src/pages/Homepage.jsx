@@ -31,7 +31,7 @@ export default function Homepage() {
     };
 
     useEffect(() => {
-        fetchRecipe("pizza");
+        fetchRecipe("waffles");
     }, []);
     const [searchQuery, setSearchQuery] = useState("");
 
