@@ -42,6 +42,8 @@ export default function Homepage() {
     const handleSearch = () => {
         if (searchQuery.length > 0) {
             fetchRecipe(searchQuery);
+        } else {
+            fetchRecipe("waffles");
         }
     };
 
