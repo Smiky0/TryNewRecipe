@@ -22,7 +22,7 @@ export default function Homepage() {
             );
             const data = await res.json();
             setRecipes(data.hits);
-            setNoResults(recipes.length < 1);
+            setNoResults(data.hits.length < 1);
         } catch (error) {
             console.log(error.message);
         } finally {
@@ -40,7 +40,9 @@ export default function Homepage() {
     };
 
     const handleSearch = () => {
-        fetchRecipe(searchQuery);
+        if (searchQuery.length > 0) {
+            fetchRecipe(searchQuery);
+        }
     };
 
     const handleKeyDown = (e) => {
