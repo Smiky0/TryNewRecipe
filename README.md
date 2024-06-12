@@ -58,3 +58,7 @@ Contributions are always welcome!
 ## Acknowledgements
 
 -   [Edamam API](https://www.edamam.com/)
+
+## License
+
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
