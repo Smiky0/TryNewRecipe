@@ -25,5 +25,5 @@ dist-ssr
 
 #custom
 .env
-# Local Netlify folder
 .netlify
+.gitignore
